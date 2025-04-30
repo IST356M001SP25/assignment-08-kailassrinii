@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I learned to build data pipelines that transform parking violation data into insights by finding high ticket locations using coordinates. The project showed me that good data engineering combines technical skills with smart design decisions about thresholds and outputs that support decision making.
